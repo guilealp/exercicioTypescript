@@ -50,7 +50,7 @@ function exibirOutroText(){
    console.log(retornarTexto());
 
    function soma(a: Number, b: Number){
-return a + b   ;
+return   ;
 }
    console.log("o valor da soma é:" + soma(50, 100));
 
@@ -58,17 +58,17 @@ return a + b   ;
 
    //exercicios
    function multiplicar(a: Number, b: Number){
-    return a * b   ;
+    return   ;
     }
        console.log("o valor da multiplicação é:" + multiplicar(50, 100));
 
        function conta(a: Number, b: Number, c: Number){
-        return (a + b) * c   ;
+        return   ;
         }
            console.log("o valor da conta é:" + conta(50, 100, 2));
 
            function resultado(numero1:string, numero2:string){
-            return  (numero1 * numero2)
+            return  
 
            }
            console.log("resultado da mutiplicação é:" + (10 *20));
